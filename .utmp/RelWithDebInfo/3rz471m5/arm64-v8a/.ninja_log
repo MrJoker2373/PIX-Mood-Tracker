@@ -1,0 +1,11 @@
+# ninja log v5
+223	13716	7516570331943173	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4ee84d36decdf5e0
+215	15147	7516570338189606	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d9c551fa797b729a
+202	15349	7516570350402916	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	95422b1638c216d6
+209	16434	7516570358668170	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	504ee13015fcdf9d
+231	18062	7516570374874556	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	78239129dd8e220a
+15149	18068	7516570376878597	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	21406b649e4f53f2
+80	18929	7516570384494220	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5d9270a68fff7b8c
+13720	22945	7516570424967028	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b748f182e9cf25c3
+18239	24377	7516570414047726	D:/Projects/PIX Mood Tracker/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3rz471m5/obj/arm64-v8a/libswappywrapper.so	7703d0ddec56a694
+22948	26061	7516570443817122	D:/Projects/PIX Mood Tracker/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3rz471m5/obj/arm64-v8a/libgame.so	69c632208253fca6
